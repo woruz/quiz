@@ -54,13 +54,3 @@ clone the repository from github
 ## Important Note
 
 Please create an openai api key and put it in the env file for apiKey
-
-
-
-
-
-Hii maam,
-This is the GitHub link to the assignment
-https://github.com/woruz/quiz
-
-In case you want a working demo video let me know
